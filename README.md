@@ -1,4 +1,5 @@
-# Machine Learning Models Good and Bad Stages 
+# Machine Learning Models Optimization 
+![IMG_20250129_232116](https://github.com/user-attachments/assets/3fc65d57-7858-4579-878b-5102159d13ec)
 ![IMG_20250129_213305](https://github.com/user-attachments/assets/0f963990-97d4-4d59-a33c-02f463bec94b)
 ![IMG_20250129_213702](https://github.com/user-attachments/assets/6dc1f799-92a6-43dc-879b-860935abcbc9)
 ![IMG_20250129_213838](https://github.com/user-attachments/assets/61a70dbd-8338-4083-8d7b-438631ee7456)
