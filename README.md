@@ -1,3 +1,11 @@
-# Machine Learning Models Implementation Good and Bad stages
-![IMSL What is Regression Model Blog Feature](https://github.com/user-attachments/assets/be600d81-5040-49e2-ba43-d1ed330f47bf)
+# Machine Learning Models Good and Bad Stages 
 ![IMG_20250129_213305](https://github.com/user-attachments/assets/0f963990-97d4-4d59-a33c-02f463bec94b)
+![IMG_20250129_213702](https://github.com/user-attachments/assets/6dc1f799-92a6-43dc-879b-860935abcbc9)
+![IMG_20250129_213838](https://github.com/user-attachments/assets/61a70dbd-8338-4083-8d7b-438631ee7456)
+![IMG_20250129_214046](https://github.com/user-attachments/assets/d55674cb-9633-482f-b34d-b0bd9476b4ba)
+![IMG_20250129_214205](https://github.com/user-attachments/assets/2d1bb3da-68d8-4437-b817-060e3a05dbe6)
+![IMG_20250129_214408](https://github.com/user-attachments/assets/be41d671-04ad-4fa8-b725-6aeb7943bcc3)
+![IMG_20250129_214601](https://github.com/user-attachments/assets/50c0636c-b8bd-4a2b-a4be-50aef804a291)
+![IMG_20250129_214757](https://github.com/user-attachments/assets/9afbb515-46d3-47bc-bf2e-fa95371375c7)
+![IMG_20250129_214918](https://github.com/user-attachments/assets/fd3b72a4-adc5-433c-9f80-5da3e6bd542e)
+![IMG_20250129_215052](https://github.com/user-attachments/assets/0290da29-39ea-4735-8f19-2404641a2130)
